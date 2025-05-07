@@ -1,9 +1,13 @@
 
 
 
+https://github.com/user-attachments/assets/e284d6d1-a7a0-4fa7-a3f0-ce950639bcd7
+
+
+
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
